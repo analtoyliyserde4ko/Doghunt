@@ -1,8 +1,6 @@
 # Doghunt
 Doghunt
-
-          child: Text(
-            'Hello, World! ++',
+',
             style: TextStyle(fontSize: 24),
           ),
         ),
