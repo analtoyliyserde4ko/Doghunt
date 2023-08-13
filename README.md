@@ -1,6 +1,4 @@
 # Doghunt
-Doghunt
-',
             style: TextStyle(fontSize: 24),
           ),
         ),
