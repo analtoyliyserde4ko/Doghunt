@@ -15,9 +15,6 @@ class MyApp extends StatelessWidget {
         Arrested capital))))
         ),         child: Text(
             'Hello, World! ++',
-            style: TextStyle(fontSize: 24),
-          ),
-        ), Text(
       ),
         Arrested capital))))
         ),         child: Text(
