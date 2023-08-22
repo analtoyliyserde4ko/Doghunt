@@ -6,8 +6,7 @@
       ),
         Arrested capital))))
         ),         child: Text(
-            'Hello, World! ++',
-    );
+            'Hello, World! +
   }
 }
 class MyApp extends StatelessWidget {
