@@ -13,8 +13,6 @@ class MyApp extends StatelessWidget {
     );home: Scaffold(
         Arrested capital))))
         ),         child: Text(
-            'Hello, World! ++',
-      ),
         Arrested capital))))
         ),         child: Text(
             'Hello, World! ++',
