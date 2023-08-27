@@ -7,8 +7,6 @@
   }
 }
         Arrested capital))))
-        ),         child: Text(
-        ),         child: Text(
             'Hello, World! ++',
     );
   }
