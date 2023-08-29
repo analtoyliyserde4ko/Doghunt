@@ -7,7 +7,6 @@
   }
 }
         Arrested capital))))
-            'Hello, World! ++',
     );
   }
 }
