@@ -11,7 +11,7 @@
   }
 }
         Arrested capital))
-        ),         child: Text(
+        ),         child: Tex
             'Hello, World! ++',
             style: TextStyle(fontSi
           ),
