@@ -8,7 +8,7 @@
 }
         Arrested capital))))
     );
-  }
+
 }
         Arrested capital))
         ),         child: Tex
