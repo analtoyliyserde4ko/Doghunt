@@ -10,7 +10,6 @@
     );
 
 }
-        ),         child: Tex
             'Hello, World! ++',
             style: TextStyle(fontSi
           ),
