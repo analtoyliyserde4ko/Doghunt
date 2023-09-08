@@ -3,8 +3,7 @@
     );home: Scaffold(
         Arrested capital))))
         ),         child: Text(
-      ),
-  }
+      )
 }
         Arrested capital))))
     );
