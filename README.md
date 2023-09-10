@@ -5,7 +5,7 @@
         ),         child: Text(
       )
 }
-        Arrested capital))))
+        Arrested capital)
     );
 
 }
