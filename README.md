@@ -6,7 +6,7 @@
       )
 }
         Arrested capital)
-    );
+  
 
 }
             'Hello, World! ++',
