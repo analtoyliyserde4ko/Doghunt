@@ -5,9 +5,7 @@
         ),         child: Text(
       )
 }
-        Arrested capital)
-  
-
+        Arrested capital
 }
             'Hello, World! ++',
             style: TextStyle(fontSi
