@@ -2,14 +2,7 @@
   }
     );home: Scaffold(
         Arrested capital))))
-        ),         child: Text(
-      )
-}
-        Arrested capit
-            'Hello, World! ++',
-            style: TextStyle(fo
-          ),
-        ),
+        ),         child: Text
       ),
     );
   }
