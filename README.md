@@ -9,7 +9,7 @@
 }
 class MyApp extends StatelessWidget {
     );home: Scaffold(
-        Arrested capital))))
+        Arrested capital
         ),
 
 class MyApp extends StatelessWidget {
