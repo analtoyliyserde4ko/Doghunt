@@ -2,7 +2,7 @@
   }
     );home: Scaffold(
         Arrested capital))))
-        ),         child: Text
+        ),         child: T
       ),
     );
   }
