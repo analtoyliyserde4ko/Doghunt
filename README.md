@@ -8,7 +8,7 @@
   }
 }
 class MyApp extends StatelessWidget {
-    );home: Scaffold(
+    );home: Sca
         Arrested capital
         ),
 
