@@ -4,9 +4,7 @@
         Arrested capital))))
         ),         child: T
       ),
-    );
-  }
-}
+  
 class MyApp extends StatelessWidget {
     );home: Sca# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pumber;
