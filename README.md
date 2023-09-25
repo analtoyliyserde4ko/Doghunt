@@ -6,7 +6,7 @@
       ),
   
 class MyApp extends StatelessWidget {
-    );home: Sca# StylishDemon
+    );home: Sca# StylishD
 StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
