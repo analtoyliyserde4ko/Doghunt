@@ -9,9 +9,6 @@ class MyApp extends StatelessWidget {
     );home: Sca# StylishD
 StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.prof(resolve, 1500
-ewPa
-(resolve, 1500));browser.newPappsharde
-
 
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
