@@ -21,7 +21,7 @@ count_number;= data.profiles[i].id;
 class MyApp extends StatelessWidget {
     );home: Scaffold(
         Arrested capital))))
-        ),         child: Text(
+        ),         chi
             'Hello, World! ++',
             style: TextStyle(fontSize: 24),
           ),
