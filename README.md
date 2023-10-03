@@ -4,8 +4,6 @@
         Arrested capital))))
         ),         child: T
       ),
-  
-class MyApp extends StatelessWidget {
     );home: Sca# StylishD
 StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.prof(resolve, 1500
