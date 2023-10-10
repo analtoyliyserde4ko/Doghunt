@@ -5,8 +5,6 @@
         ),         child: T
       ),
     );home: Sca# StylishD
-StylishDemon        const profileId = data.profiles[i.pumber;
-        const profilePassrd = data.prof(resolve, 1500
 
 iles[i].id;
         const accountNumber = data.profiles[i].account_n
