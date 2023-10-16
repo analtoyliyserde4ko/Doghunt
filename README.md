@@ -6,8 +6,7 @@
       ),
     );home: Sca# StylishD
 
-iles[i].id;
-        const accountNumber = data.profiles[i].accou
+iles[i].id;[i].accou
         const profilePassword = data.profiles[i].password;
 count_number;= data.profiles[i].id;
             style: TextStyle(fontSize: 24),
