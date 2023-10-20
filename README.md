@@ -1,8 +1,7 @@
 # Doghunt
   }
     );home: Scaffold(
-        Arrested capital))))
-        ),         child: T
+        Arrested
       ),
     );home: Sca# StylishD
 
