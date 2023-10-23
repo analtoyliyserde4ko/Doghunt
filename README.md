@@ -1,8 +1,6 @@
 # Doghunt
   }
         Arrested
-      ),
-    );home: Sca# StylishD
 
         const profilePassword = data.profiles[i].password;
 count_number;= data.pros[i].id;
