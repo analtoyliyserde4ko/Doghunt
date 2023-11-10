@@ -1,8 +1,6 @@
 
 ick.waitForXPath(clickSelect
         const profilePassw.ctor4);
-                        await mbert
-
 
 iles[i].id;
 iles[i]d;   
