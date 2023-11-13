@@ -3,9 +3,7 @@ ick.waitForXPath(clickSelect
         const profilePassw.ctor4);
 
 iles[i].id;
-iles[i]d;   
-count_number;= data.profiles[i]
-        const accountNumber = daa.profiles[i].account_number;
+iles[i]d;   r;
         const profilePassword = data.profiles[i].pick.waitForXPath(clickSelect
 fi
         const profilePassw.ctor4);
