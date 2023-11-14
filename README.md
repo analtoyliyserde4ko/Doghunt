@@ -1,7 +1,5 @@
 
 ick.waitForXPath(clickSelect
-        const profilePassw.ctor4);
-
 iles[i].id;
 iles[i]d;   r;
         const profilePassword = data.profiles[i].pick.waitForXPath(clickSelect
