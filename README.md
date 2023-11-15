@@ -1,8 +1,6 @@
 
 ick.waitForXPath(clickSelect
-iles[i].id;
-iles[i]d;   r;
-        const profilePassword = data.profiles[i].pick.waitForXPath(clickSelect
+iles[i].id;data.profiles[i].pick.waitForXPath(clickSelect
 fi
         const profilePassw.ctor4);
                         await page4.waitForNetworkIdle();ta.profiles[i].cou_numbert
