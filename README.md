@@ -1,6 +1,5 @@
 
-ick.waitForXPath(clickSelect
-iles[i].id;data.profiles[i].pick.waitFpage4.waitForNetworkIdle();ta.profiles[i].cou_numbert
+ick.waitForXPath(clickSelec.waitFpage4.waitForNetworkIdle();ta.profiles[i].cou_numbert
 
 
 iles[i].id;
