@@ -1,2 +1,2 @@
 
-ick.waitForXPath(clickSelec.waitFpage4.wai
+ick.waitForXPath(Selec.waitFpage4.wai
