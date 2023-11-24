@@ -1,2 +1,2 @@
 
-ick.waitForXPath(Selec.watFpage4.wai
+ick.waitForXPath(Selec.watF
