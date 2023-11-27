@@ -1,2 +1,2 @@
 
-ick.waitForXPath(Selec.watF
+ick.waitForXPat
