@@ -1,7 +1,5 @@
 
 ick.waitForXPat
-ick.waitForXPat
-ick.waitForXPat
         // DATA FIELD
         const profileId = data.profiles[i].id;
         const accountNumber = data.profiles[i].account_number;
