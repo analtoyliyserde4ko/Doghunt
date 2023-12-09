@@ -1,8 +1,5 @@
 
-ick.waitForXPat
-        // DATA FIELD
-        const profileId = data.profiles[i].id;
-        const accountNumber = data.profiles[i].account_number;
+ick.waitForXPatr;
         const profilePassword = data.profiles[i].password;
         const githubRoute = data.profiles[i].githubRepo;
         // END OF DATA FIELD
