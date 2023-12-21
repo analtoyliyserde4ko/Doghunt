@@ -1,3 +1,3 @@
 
 ick.waitForXPatr;
-        console.logjjkjk
+        console
