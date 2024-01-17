@@ -1,4 +1,3 @@
 
 ick.waitForXPatr;
         console
-kjhj
