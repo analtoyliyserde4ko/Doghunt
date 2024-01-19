@@ -1,3 +1,2 @@
 
 ick.waitForXPatr;
-        console
