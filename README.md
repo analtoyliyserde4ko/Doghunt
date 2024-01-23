@@ -1,2 +1,2 @@
 
-ick.waitForXPatr;
+ick.wait
